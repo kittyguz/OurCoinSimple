@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>24593401541-32b3i5a2shaa007v0imbqbmpgpk9k32u.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.24593401541-32b3i5a2shaa007v0imbqbmpgpk9k32u</string>
+	<key>API_KEY</key>
+	<string>AIzaSyADHr4_uBDNIlGBmSb-ydKuFKn5ihK4RVA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>24593401541</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.kittygu.OurCoinSimple</string>
+	<key>PROJECT_ID</key>
+	<string>ourcoinsimple</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ourcoinsimple.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:24593401541:ios:cf0f9bef55e17093a312ac</string>
+</dict>
+</plist>
